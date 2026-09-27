@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yash141106/leetcode/tree/master/0054-spiral-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash141106/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yash141106/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yash141106/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yash141106/leetcode/tree/master/0054-spiral-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yash141106/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/yash141106/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash141106/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/yash141106/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
