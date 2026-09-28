@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yash141106/leetcode/tree/master/0054-spiral-matrix) |
+| [0189-rotate-array](https://github.com/yash141106/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/yash141106/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0832-flipping-an-image](https://github.com/yash141106/leetcode/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash141106/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -47,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/yash141106/leetcode/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/yash141106/leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/yash141106/leetcode/tree/master/0832-flipping-an-image) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/yash141106/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
