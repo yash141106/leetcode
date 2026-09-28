@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yash141106/leetcode/tree/master/0054-spiral-matrix) |
+| [0238-product-of-array-except-self](https://github.com/yash141106/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0832-flipping-an-image](https://github.com/yash141106/leetcode/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash141106/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yash141106/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yash141106/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/yash141106/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
