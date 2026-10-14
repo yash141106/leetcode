@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/yash141106/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/yash141106/leetcode/tree/master/0832-flipping-an-image) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash141106/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/yash141106/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash141106/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/yash141106/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yash141106/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yash141106/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yash141106/leetcode/tree/master/0189-rotate-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash141106/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/yash141106/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Greedy
 |  |
 | ------- |
