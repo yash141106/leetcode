@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yash141106/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/yash141106/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/yash141106/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/yash141106/leetcode/tree/master/0189-rotate-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash141106/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yash141106/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash141106/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/yash141106/leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/yash141106/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
