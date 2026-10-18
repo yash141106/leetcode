@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash141106/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/yash141106/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/yash141106/leetcode/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash141106/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yash141106/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/yash141106/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0566-reshape-the-matrix](https://github.com/yash141106/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash141106/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash141106/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yash141106/leetcode/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/yash141106/leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yash141106/leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash141106/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/yash141106/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/yash141106/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Newton's Method
