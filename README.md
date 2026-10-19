@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yash141106/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash141106/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/yash141106/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yash141106/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/yash141106/leetcode/tree/master/0832-flipping-an-image) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash141106/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yash141106/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/yash141106/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/yash141106/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash141106/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yash141106/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Newton's Method
 |  |
 | ------- |
