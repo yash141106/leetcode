@@ -9,10 +9,10 @@ class Solution {
                 return m;
             }
             else if(arr[m]<arr[m+1]){
-                s=m+1;
+                s=m;
             }
             else{
-                e=m-1;
+                e=m;
             }
         }
         return -1;
