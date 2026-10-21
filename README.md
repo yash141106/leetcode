@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/yash141106/leetcode/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/yash141106/leetcode/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yash141106/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yash141106/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/yash141106/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/yash141106/leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/yash141106/leetcode/tree/master/0367-valid-perfect-square) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash141106/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yash141106/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/yash141106/leetcode/tree/master/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yash141106/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
