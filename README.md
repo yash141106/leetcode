@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yash141106/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/yash141106/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yash141106/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yash141106/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/yash141106/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yash141106/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash141106/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -84,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash141106/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash141106/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yash141106/leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/yash141106/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/yash141106/leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yash141106/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yash141106/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/yash141106/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/yash141106/leetcode/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash141106/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yash141106/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/yash141106/leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/yash141106/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/yash141106/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/yash141106/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/yash141106/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -156,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yash141106/leetcode/tree/master/0231-power-of-two) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yash141106/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yash141106/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
