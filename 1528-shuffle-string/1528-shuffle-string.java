@@ -1,13 +1,11 @@
 class Solution {
     public String restoreString(String s, int[] indices) {
-        int n = indices.length;
-        StringBuilder ar = new StringBuilder();
-        for(int i=0;i<n;i++){
-            ar.append('_');
+        char[] result=new char[s.length()];
+        for(int i=0; i<s.length();i++){
+            result [indices[i]]=s.charAt(i);
+
         }
-        for(int i=0;i<n;i++){
-            ar.setCharAt(indices[i], s.charAt(i));
-        }
-        return ar.toString();
+        return new String(result);
+        
     }
 }
