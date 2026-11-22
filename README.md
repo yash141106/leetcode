@@ -193,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/yash141106/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/yash141106/leetcode/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/yash141106/leetcode/tree/master/1678-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
