@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-ways-to-split-a-string">1678. Number of Ways to Split a String</a></h2><h3>Medium</h3><hr><p>Given a binary string <code>s</code>, you can split <code>s</code> into 3 <strong>non-empty</strong> strings <code>s1</code>, <code>s2</code>, and <code>s3</code> where <code>s1 + s2 + s3 = s</code>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-ways-to-split-a-string/">1678. Number of Ways to Split a String</a></h2><h3>Medium</h3><hr><p>Given a binary string <code>s</code>, you can split <code>s</code> into 3 <strong>non-empty</strong> strings <code>s1</code>, <code>s2</code>, and <code>s3</code> where <code>s1 + s2 + s3 = s</code>.</p>
 
 <p>Return the number of ways <code>s</code> can be split such that the number of ones is the same in <code>s1</code>, <code>s2</code>, and <code>s3</code>. Since the answer may be too large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
