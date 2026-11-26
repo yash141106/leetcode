@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/yash141106/leetcode/tree/master/0367-valid-perfect-square) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash141106/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yash141106/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/yash141106/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [2235-add-two-integers](https://github.com/yash141106/leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/yash141106/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/yash141106/leetcode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/yash141106/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/yash141106/leetcode/tree/master/1528-shuffle-string) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/yash141106/leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yash141106/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/yash141106/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/yash141106/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
